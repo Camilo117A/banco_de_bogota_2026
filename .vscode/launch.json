@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Iniciar Chrome para localhost",
-            "url": "http://localhost:8080",
+            "url": "https://camilo117a.github.io/banco_de_bogota_2026/",
             "webRoot": "${workspaceFolder}"
         }
     ]
